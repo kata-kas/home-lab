@@ -1,0 +1,3 @@
+config:
+  home-lab:serverPublicIp: 192.168.6.119
+  home-lab:userName: kata

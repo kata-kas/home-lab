@@ -1,0 +1,7 @@
+name: home-lab
+description: Home Lab
+runtime: go
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: go
